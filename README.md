@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋, myself Tanushree Adhikari
 
-# 💫 About Me:
 👯 I’m looking to collaborate on  <br>- Beginner-friendly open source projects  <br>- Web development projects (frontend or full-stack)  <br>- Hackathons, college projects, or startup ideas  <br><br>🌱 I’m currently learning  <br>- Basics of full-stack development  <br><br>💬 Ask me about  <br>- NOTHING <br><br>⚡ Fun fact  <br>- I DON'T ACTUALLY LIKE DOING THIS :) jk  <br>
 
 
