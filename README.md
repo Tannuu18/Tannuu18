@@ -1,6 +1,6 @@
-## Heyy There 👋, Myself Tanushree Adhikari
+# Heyy There 👋, Myself Tanushree Adhikari
 
-# 💫 About Me:
+## 💫 About Me:
 👯 I’m looking to collaborate on<br>- Beginner-friendly open source projects<br>- Web development projects (frontend specially)<br>- Hackathons, college projects, or startup ideas<br><br>💻 Currently learning: Web development basics | 🤖 Exploring: Machine Learning<br><br>💬 Ask me about<br>- NOTHING<br><br>⚡ Fun fact<br>- I DON'T ACTUALLY LIKE DOING THIS :) jk <br>
 
 
