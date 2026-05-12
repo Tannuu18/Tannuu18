@@ -12,14 +12,20 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tannuu18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tannuu18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tannuu18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tannuu18&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Tannuu18&theme=tokyonight&cache_seconds=1" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tannuu18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Contribution Graph:
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tannuu18&theme=tokyo-night)
+
+---
+
 
 
 
